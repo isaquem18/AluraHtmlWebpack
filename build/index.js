@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=document.querySelector("body");e.style.backgroundColor="#ff0",e.innerHTML+="<div>ola index</div>"})();

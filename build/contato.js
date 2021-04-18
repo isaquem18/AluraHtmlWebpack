@@ -1,0 +1,1 @@
+(()=>{"use strict";var o=document.querySelector("body");o.style.backgroundColor="#ff0",o.innerHTML+="<div>ola contato</div>"})();
